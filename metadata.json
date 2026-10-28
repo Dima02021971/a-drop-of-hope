@@ -1,0 +1,6 @@
+{
+  "name": "A Drop of Hope",
+  "description": "An educational 2D adventure game featuring Hippry the sea otter, exploring natural environments, collecting clean water, helping communities, and learning about clean water access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
